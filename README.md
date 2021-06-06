@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jeyson Gabriel;
+- 👀 I’m interested in work with programming;
+- 🌱 I’m currently learning computer science;
+- 📫 How to reach me - Email: jeysongoliveira204@gmail.com
