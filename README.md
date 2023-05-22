@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Jeyson Gabriel;
-- 🌱 I’m currently learning systems for internet;
+- Hello, my name is Jeyson and I study Internet Systems.
 - 📫 How to reach me - Email: jeysongoliveira204@gmail.com
